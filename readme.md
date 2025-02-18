@@ -1,0 +1,3 @@
+- open vscode 
+- install 'live server' extension 
+- open index.html with 'live server'

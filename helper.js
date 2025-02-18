@@ -44,7 +44,7 @@ function generateMus2MusTable(tableId, n_samples) {
   }
 }
 
-const STYLE_NAMES=["AmbientElectronic", "Chillhop", "ClassicalCrossover", "JazzFusion", "PostRock", "ProgressiveHouse", "PsychedelicRock"]
+const STYLE_NAMES=["AmbientElectronic", "Chillhop", "ClassicalCrossover", "JazzFusion", "PostRock", "ProgressiveHouse"]
 
 
 
